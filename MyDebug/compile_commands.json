@@ -1,5 +1,0 @@
-[{
-  "file": "D:\\Github Repositories\\DSA-CP\\MyDebug\\MyDebug\\main.cpp",
-  "directory": "D:\\Github Repositories\\DSA-CP\\MyDebug\\MyDebug",
-  "command": "clang  -c \"D:\\Github Repositories\\DSA-CP\\MyDebug\\MyDebug\\main.cpp\" -o \"D:\\Github Repositories\\DSA-CP\\MyDebug\\MyDebug\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -Wall"
- }]
